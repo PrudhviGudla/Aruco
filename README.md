@@ -21,6 +21,7 @@ python guess_aruco.py --image <dir>
 ```
 ## Important point
 Axes in opencv:
+
 ![image](https://github.com/PrudhviGudla/Aruco/assets/106007058/06ccbcbf-c81c-459b-be08-6f4afd0543c4)
 
 ## Code explanation
