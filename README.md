@@ -13,6 +13,7 @@ To detect the aruco tag, mark centre and calculate orientation
 python detect_aruco.py --image <dir> --type DICT_6X6_1000
 ```
 ![image](https://github.com/PrudhviGudla/Aruco/assets/106007058/9f0a5828-b042-4c64-ac16-0ef8dbef63ea)
+<img src="https://github.com/PrudhviGudla/Aruco/assets/106007058/9f0a5828-b042-4c64-ac16-0ef8dbef63ea" width="100" height="100">
 
 To find out the types of aruco tags present in a image
 ```
