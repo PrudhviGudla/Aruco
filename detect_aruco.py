@@ -82,7 +82,7 @@ if len(corners) > 0:
 		centre= (int(cX),int(cY))
 		p = (0,int(cY))
 		cv2.line(image, centre, anch, (0, 255, 0), 2)
-		cv2.line(image, centre, p, (0, 255, 0), 2)
+		#cv2.line(image, centre, p, (0, 255, 0), 2)
 		
 		cv2.circle(image, (cX, cY), 4, (0, 0, 255), -1)
 		def gradient(pt1,pt2):
